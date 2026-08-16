@@ -4,7 +4,7 @@
 
 ![status](https://img.shields.io/badge/status-active-brightgreen) ![react](https://img.shields.io/badge/react-19-61DAFB) ![tailwind](https://img.shields.io/badge/tailwindcss-3-38BDF8) ![arduino](https://img.shields.io/badge/arduino-C%2FC%2B%2B-00979D) ![render](https://img.shields.io/badge/deployed-render-46E3B7)
 
-**🔴 Live demo:** *(add your Render static site URL here after deploying)*
+**🔴 Live demo:** *(https://heartbeat-monitor-alert-embedded-system.onrender.com)*
 
 ---
 
